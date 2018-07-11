@@ -1,0 +1,5 @@
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;
+
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop

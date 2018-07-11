@@ -1,0 +1,13 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Downloads/PMP lectures/PMP lectures/31272 Module 03 - Ethics.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 2160=555
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 3840=640
